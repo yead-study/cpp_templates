@@ -2,6 +2,6 @@
       cout << *it << ", ";
   }
 
-for(int k:v){
+for(auto k:v){
         cout << k << " ";
     }
